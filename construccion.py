@@ -9,5 +9,7 @@ if motor1==("bajo"):
     print("posicion correcta")
     
 if motor2==1:
-    print("esta abierto")
+    print("está abierto")
     
+if motor2==1:
+    print("cerrar gancho de grua")
