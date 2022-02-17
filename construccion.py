@@ -13,3 +13,6 @@ if motor2==1:
     
 if motor2==1:
     print("cerrar gancho de grua")
+    
+if motor2==0:
+    print("gancho de grua cerrado")
